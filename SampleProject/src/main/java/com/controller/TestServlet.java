@@ -26,7 +26,7 @@ public class TestServlet extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		System.out.println("TestServelt 실행");
+		System.out.println("TestServelt 실행===>수정함");
 	}
 
 	/**
